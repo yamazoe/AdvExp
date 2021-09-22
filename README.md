@@ -1,9 +1,9 @@
 # 2021年度 電子情報工学特別実験２ クラス１
 ### 山添担当分 
 
-ipynbファイルは，
+以下のリンクをクリックするとColaboratoryから実行できます。
+- [Rによるデータ分析と可視化](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/AdvExp.ipynb)
 
-https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/AdvExp.ipynb
-
-といった形でアクセスすると，colaboratoryで開けます．
+- [Rの基礎](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/Rintro.ipynb)
+- [レポート用ファイル](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/report.ipynb)
 
