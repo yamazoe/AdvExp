@@ -5,5 +5,6 @@
 - [Rの基礎 (Rintro.ipynb)](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/Rintro.ipynb)
 - [Rによるデータ分析と可視化 (AdvExp.ipynb)](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/AdvExp.ipynb)
 
+レポート作成時は以下のファイルを利用してください．colabから新規作成したファイルではPythonモードになっているため，Rが実行できません．
 - [レポート用ファイル (report.ipynb)](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/report.ipynb)
 
