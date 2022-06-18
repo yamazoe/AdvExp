@@ -1,0 +1,15 @@
+#title.denki{
+  background-color: #2793FF;
+}
+#title.kikai{
+  background-color: #59B200;
+}
+#title.kagaku{
+  background-color: #FF7F00;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
