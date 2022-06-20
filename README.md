@@ -3,4 +3,4 @@
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)をクリックすると，Colaboratoryから実行できます．
 
-- [PythonによるWebスクレイピング](https://github.com/yamazoe/AdvExp/blob/main/Python_scraping_pynb.ipynb)
+- [PythonによるWebスクレイピング　サンプルプログラム](https://github.com/yamazoe/AdvExp/blob/main/Python_scraping_pynb.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/ImageMediaProcessing/blob/main/Python_scraping_pynb.ipynb)
