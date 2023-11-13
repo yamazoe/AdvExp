@@ -1,5 +1,5 @@
-# 2022年度 電子情報工学特別実験I クラス２
-### 山添担当分（6/20-）
+# 2022年度 電子情報工学特別実験２ クラス２
+### 山添担当分（11/13-）
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)をクリックすると，Colaboratoryから実行できます．
 
