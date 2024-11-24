@@ -5,11 +5,10 @@
 
 - [PythonによるWebスクレイピング　サンプルプログラム](https://github.com/yamazoe/AdvExp/blob/main/Python_scraping.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/Python_scraping.ipynb)
 
-- [PythonによるWebスクレイピング２（クローリング）](https://github.com/yamazoe/AdvExp/blob/main/Python_scraping2.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/Python_scraping2.ipynb)
+以下は，クローリング，動的Webページに対するスクレイピングのサンプルですが，課題としては，これらの内容を含む必要はありません．
 
-- [PythonによるWebスクレイピング３（動的Webページ用）](https://github.com/yamazoe/AdvExp/blob/main/Python_scraping3.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/Python_scraping3.ipynb)
+- [PythonによるWebスクレイピング（クローリング）](https://github.com/yamazoe/AdvExp/blob/main/Python_scraping_crawling.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/Python_scraping.ipynb)
 
-- [PythonによるWebスクレイピング４（実際のWebページ用）　サンプルプログラム](https://github.com/yamazoe/AdvExp/blob/main/Python_scraping3.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/Python_scraping3.ipynb)
+- [PythonによるWebスクレイピング（動的Webページ用）](https://github.com/yamazoe/AdvExp/blob/main/Python_scraping_dynamic.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/Python_scraping_dynamic.ipynb)
 
-
-課題としては，クローリングまでは行う必要はありません．
+- [実際のWebページに対するスクレイピングのサンプル](https://github.com/yamazoe/AdvExp/blob/main/Python_scraping_sample.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamazoe/AdvExp/blob/main/Python_scraping_sample.ipynb)
