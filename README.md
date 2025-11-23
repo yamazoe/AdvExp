@@ -1,5 +1,5 @@
-# 2024年度 電子情報工学特別実験２ クラス２
-### 山添担当分（11/25-）
+# 2025年度 電子情報工学特別実験２ クラス２
+### 山添担当分（11/24-）
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)をクリックすると，Colaboratoryから実行できます．
 
